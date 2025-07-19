@@ -1,0 +1,72 @@
+🧠 Work-Related Tasks
+Finish Q2 Sales Report
+Due: July 21, 2025 | Priority: High
+Notes: Pull data from CRM and finalize graphs.
+
+Email client about contract renewal
+Due: July 19, 2025 | Priority: Medium
+
+Weekly Team Sync Meeting
+Due: Every Monday, 9:00 AM | Recurring: Yes
+
+Prepare presentation for product launch
+Due: July 25, 2025 | Priority: High
+Subtasks:
+
+Draft slides
+
+Review with design team
+
+Rehearse presentation
+
+Code review for PR #1024
+Due: July 18, 2025 | Priority: Medium
+
+🏡 Personal Tasks
+Buy groceries
+Due: July 19, 2025 | Items: Milk, Bread, Eggs, Bananas, Coffee
+
+Book annual health check-up
+Due: July 22, 2025 | Priority: Low
+
+Call mom
+Due: July 20, 2025 | Recurring: Weekly on Sundays
+
+Renew gym membership
+Due: July 30, 2025 | Priority: Medium
+
+🧽 Household Chores
+Clean the kitchen
+Due: July 18, 2025 | Priority: Medium
+
+Laundry
+Due: July 19, 2025 | Recurring: Weekly on Saturdays
+
+Water the plants
+Due: July 18, 2025 | Recurring: Every 2 days
+
+Fix leaking faucet in bathroom
+Due: July 22, 2025 | Priority: Low
+
+🎯 Long-Term Goals / Projects
+Plan trip to Japan
+Due: October 1, 2025 | Subtasks:
+
+Research flight options
+
+Book hotels
+
+Create itinerary
+
+Apply for travel insurance
+
+Learn Python (Beginner to Intermediate)
+Due: December 31, 2025 | Priority: Medium
+Subtasks:
+
+Finish Codecademy course
+
+Build 3 small projects
+
+Join a local study group
+
